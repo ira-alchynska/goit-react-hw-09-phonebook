@@ -37,7 +37,6 @@ const register = credentials => async dispatch => {
   }
 };
 
-//poiu
 //poiu@gmail.com
 //poiupoiu123
 
